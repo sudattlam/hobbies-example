@@ -3,3 +3,4 @@
 3 Fishing
 4 Hunting
 5 Singing
+6 Eating 
