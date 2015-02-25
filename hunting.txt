@@ -3,3 +3,5 @@ Hunting
 
 1 Mountains
 2 Forest
+
+Hunting is killing
